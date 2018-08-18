@@ -1047,7 +1047,7 @@
         "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
         "title": "ABOUT",
         "order": 6,
-        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
+        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp Kami Sini Haa\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
       "components": [
         {
@@ -1123,35 +1123,35 @@
                 "title": "AMT SARAWAK<div>WELCOME YOU</div>",
                 "contentAlign": "right",
                 "text": "<b>SALAM SEJAHTERA KEPADA SEMUA PELANGGAN.\n</b><br><b>SIAPA KAMI?</b><br><br><b>**Kami menjalankan perkhidmatan Kereta Sewa di area Kuching dan Kota Samarahan.</b><br><b>**AMT Transport adalah sebuah Syarikat Berdaftar Milik Penuh Bumiputera.&nbsp;</b><br><b>**Matlamat kami hanya satu, menyelesaikan masalah transportatasi anda di Kuching-Samarahan, Sarawak.<br></b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">CAR LIST</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LIST KERETA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.7",
                 "overlayColor": "#ededed"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "MATLAMAT AMT",
                 "contentAlign": "right",
                 "text": "Matlamat utama kami adalah memberi khidmat yang terbaik dengan kadar sewaan yang pasti mampu bagi semua golongan. Kami juga sentiasa memastikan keadaan kereta yang anda sewa dalam keadaan bersih, selesa dan selamat untuk pemanduan. Malah proses sewaan dengan kami juga berjalan dengan mudah dan cepat.<b> \n</b><br>\n<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">CAR LIST</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LIST KERETA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.5",
                 "overlayColor": "#ffffff"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Hubungi Kami Sekarang",
                 "contentAlign": "left",
                 "text": "<b>Kami amat berbesar hati dan mengalu-alukan anda untuk menggunakan perkhidmatan kami. \n<br>\n<br>Sila hubungi kami di talian berikut <br>untuk membuat tempahan. \n<br>Tel : 014-8630141 \n<br>Jumpa di Kuching.</b><br><b>:-)</b><br><b><br></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CAR LIST</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>LIST KERETA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KEMBALI KE LAMAN UTAMA<br></a> ",
                 "overlay": true,
                 "overlayOpacity": "0.6",
                 "overlayColor": "#ffffff"
@@ -1231,7 +1231,7 @@
         "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
         "title": "CONTACT",
         "order": 5,
-        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
+        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp Kami Sini Haa\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
       "components": [
         {
@@ -1354,7 +1354,7 @@
         "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
         "title": "CAR LIST",
         "order": 4,
-        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
+        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp Kami Sini Haa\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
       "components": [
         {
@@ -1441,7 +1441,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32448.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32464.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1464,7 +1464,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48049.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48065.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1487,7 +1487,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40066.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1510,7 +1510,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60051.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60067.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1606,7 +1606,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x48052.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x48068.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1629,7 +1629,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30053.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30069.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1652,7 +1652,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x27654.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x27670.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1675,7 +1675,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39855.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39871.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1771,7 +1771,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27656.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27672.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1794,7 +1794,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x48057.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x48073.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1817,7 +1817,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34858.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34874.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1840,7 +1840,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29059.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29075.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1936,7 +1936,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30060.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30076.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1959,7 +1959,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40061.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40077.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1982,7 +1982,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30062.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x30078.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2005,7 +2005,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45063.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45079.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2106,7 +2106,8 @@
       "settings": {
         "meta_descr": "Kami menyediakan kereta sewa di Kuching Sarawak. Penghantaran ke airport percuma dan harga yang berpatutan. Syukran.",
         "title": "term and condition",
-        "order": 3
+        "order": 3,
+        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp Kami Sini Haa\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
       },
       "components": [
         {
