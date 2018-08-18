@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 79,
+    "uniqCompNum": 80,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -208,7 +208,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405-610x405.jpg",
                 "alt": "",
                 "title": "",
-                "caption": " Pantai Damai",
+                "caption": " Pantai Damai yang indah",
                 "active": false
               },
               {
@@ -232,7 +232,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407-610x407.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Pasar Serikin",
+                "caption": "Taman Budaya Sarawak",
                 "active": false
               },
               {
@@ -240,7 +240,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343-610x343.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Taman Budaya Sarawak",
+                "caption": "Pasar Serikin",
                 "active": true
               }
             ]
@@ -913,6 +913,14 @@
           "_anchor": "features1-1n"
         },
         {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">KEMBALI KE LAMAN UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BORANG TEMPAHAN ONLINE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP KAMI SEKARANG</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-27"
+        },
+        {
           "_params": {
             "showTitle": true,
             "paddingTop": "1",
@@ -1441,7 +1449,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32464.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x3240.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1464,7 +1472,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48065.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x4801.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1487,7 +1495,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40066.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x4002.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1510,7 +1518,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60067.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x6003.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1606,7 +1614,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x48068.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x4804.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1629,7 +1637,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30069.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x3005.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1652,7 +1660,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x27670.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x2766.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1675,7 +1683,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39871.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x3987.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1771,7 +1779,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27672.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x2768.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1794,7 +1802,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x48073.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x4809.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1817,7 +1825,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34874.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34810.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1840,7 +1848,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29075.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29011.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1936,7 +1944,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30076.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30012.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1959,7 +1967,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40077.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40013.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1982,7 +1990,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30078.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x30014.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2005,7 +2013,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45079.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45015.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
