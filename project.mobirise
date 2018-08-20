@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "AMT MAIN SITE-Landing page improve",
+    "name": "AMT MAIN SITE-English",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 81,
+    "uniqCompNum": 82,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -110,7 +110,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "TRAVELLING TO KUCHING, SARAWAK<br>It is so easy to book.",
-          "text": "WE ARE YOUR TRANSPORTATION PARTNER HERE IN SARAWAK<br>We Provide Cars, Van, and Buses Rental in Kuching Sarawak.<br>We can also supply Drivers/Bodyguards for your Need.<br>We also provide (HOLIDAY TOUR PACKAGE) around Kuching area.<br><b>Free Car </b>Delivery to Kuching Airport, Terminal Bus and Hotel!",
+          "text": "WE ARE YOUR TRANSPORTATION PARTNER HERE IN SARAWAK<br>We Provide <a href=\"page3.html\">Cars</a>, <a href=\"page3.html#features1-29\">Van, and Buses </a>Rental in Kuching Sarawak.<br>We can also supply Drivers/Bodyguards for your Need.<br>We also provide (HOLIDAY TOUR PACKAGE) around Kuching area.<br><b>Free Car </b>Delivery to Kuching Airport, Terminal Bus and Hotel!",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>CAR RENTAL LIST</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>ONLINE BOOKING FORM</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Keretasewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>WHATSAPP US</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"tel:+60148630141\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CALL US</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://keretasewakuchingamt.github.io/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>BAHASA MELAYU</a>    ",
           "_tags": [
             "Theme"
@@ -912,7 +912,7 @@
           "_anchor": "features1-1n"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ONLINE BOOKING FORM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP US TODAY</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BUS AND COASTER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ONLINE BOOKING FORM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP US TODAY</a>",
           "_tags": [
             "Theme"
           ],
@@ -1462,7 +1462,7 @@
           },
           "title1": "PERODUA VIVA",
           "caption1": "<p>Perday Price:</p><p>Automatic Transmission RM100</p>Manual Transmission RM90<br><br>Maximum Passenger: 5",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Viva%20(AUTO/MANUAL).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)<br>*fast booking for mobile<br></a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Online Form)\n<br>*best for PC<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Viva%20(AUTO/MANUAL).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)<br>*fast booking for mobile<br></a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW \n<br>(Online Booking Form)&nbsp;<br></a>",
           "media2": {
             "image": {
               "active": true,
@@ -1485,7 +1485,7 @@
           },
           "title2": "PERODUA MYVI",
           "caption2": "Automatic Transmission RM120<br>Maximum Passenger: 5<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Myvi%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Online Form)\n<br>*best for PC</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Myvi%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media3": {
             "image": {
               "active": true,
@@ -1508,7 +1508,7 @@
           },
           "title3": "PERODUA BEZZA",
           "caption3": "Automatic Transmission RM140<br>Maximum Passenger: 5<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Bezza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp) \n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Bezza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp) \n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media4": {
             "image": {
               "active": true,
@@ -1531,7 +1531,7 @@
           },
           "title4": "PERODUA ALZA",
           "caption4": "Automatic Transmission RM180<br>Maximum Passenger: 7<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Alza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp) \n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Alza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp) \n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media5": {
             "image": {
               "active": true,
@@ -1627,7 +1627,7 @@
           },
           "title1": "PROTON SAGA",
           "caption1": "Automatic Transmission RM120<br>Maximum Passenger: 5<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Saga%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Saga%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media2": {
             "image": {
               "active": true,
@@ -1650,7 +1650,7 @@
           },
           "title2": "PROTON EXORA",
           "caption2": "Automatic Transmission RM190<br>Maximum Passenger: 7/8<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Exora%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Proton%20Exora%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media3": {
             "image": {
               "active": true,
@@ -1673,7 +1673,7 @@
           },
           "title3": "TOYOYA VIOS",
           "caption3": "Automatic Transmission RM190<br>Maximum Passenger: 5<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vios%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vios%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media4": {
             "image": {
               "active": true,
@@ -1696,7 +1696,7 @@
           },
           "title4": "TOYOTA CAMRY",
           "caption4": "Automatic Transmission RM600<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Camry%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Camry%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media5": {
             "image": {
               "active": true,
@@ -1792,7 +1792,7 @@
           },
           "title1": "TOYOTA AVANZA",
           "caption1": "Automatic Transmission RM200<br>Maximum Passenger: 7<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Avanza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Avanza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media2": {
             "image": {
               "active": true,
@@ -1815,7 +1815,7 @@
           },
           "title2": "TOYOTA INNOVA",
           "caption2": "Automatic Transmission RM250<br>Maximum Passenger: 7/8<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Innova%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Innova%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media3": {
             "image": {
               "active": true,
@@ -1838,7 +1838,7 @@
           },
           "title3": "TOYOTA VAN HIACE",
           "caption3": "Automatic Transmission RM270<br>Maximum Passenger: 11<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Hiace%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media4": {
             "image": {
               "active": true,
@@ -1861,7 +1861,7 @@
           },
           "title4": "4X4 MITSUBISHI TRITON",
           "caption4": "Automatic Transmission RM400<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Triton%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Triton%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media5": {
             "image": {
               "active": true,
@@ -1957,7 +1957,7 @@
           },
           "title1": "TOYOTA VELLFIRE",
           "caption1": "Automatic Transmission RM800<br>Maximum Passenger: 7<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vellfire%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Vellfire%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media2": {
             "image": {
               "active": true,
@@ -1980,7 +1980,7 @@
           },
           "title2": "MITSUBISHI LANCER",
           "caption2": "Automatic Transmission RM380<br>Maximum Passenger: 5<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Lancer%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Mitsubishi%20Lancer%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media3": {
             "image": {
               "active": true,
@@ -2003,7 +2003,7 @@
           },
           "title3": "TOYOTA ALPHARD",
           "caption3": "Automatic Transmission RM750<br>Maximum Passenger: 7<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Alphard%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Toyota%20Alphard%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media4": {
             "image": {
               "active": true,
@@ -2026,7 +2026,7 @@
           },
           "title4": "HONDA CIVIC",
           "caption4": "Automatic Transmission RM390<br>Maximum Passenger: 5<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Honda%20Civic2015%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Online Form) \n<br>*best for PC</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Honda%20Civic2015%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp)\n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
           "media5": {
             "image": {
               "active": true,
@@ -2072,6 +2072,171 @@
           ],
           "_name": "features1",
           "_anchor": "features1-1g"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/coaester-554x561.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "COASTER 22 SEAT",
+          "caption1": "With Driver Option Only<br>Maximum Passenger: 22<br>*Price is base on Tentatif.<br>*Contact us for discussion on the price. :)",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Coaster22Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp) \n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW <br>(Online Booking Form) <br></a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/coaester-4-600x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "COASTER 28 SEAT",
+          "caption2": "With Driver Option Only\n<br>Maximum Passenger: 28&nbsp;<br>*Price is base on Tentatif.\n<br>*Contact us for discussion on the price. :)<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Coaster28Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp) \n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/busss-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "BUS SEKOLAH",
+          "caption3": "With Driver Option Only\n<br>Maximum Passenger: 40-44&nbsp;<br>*Price is base on Tentatif.\n<br>*Contact us for discussion on the price. :)<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%Bussekolah40Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp) \n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bus-persiaran-40seat-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "BUS PERSIARAN",
+          "caption4": "With Driver Option Only\n<br>Maximum Passenger: 40-44<br>*Price is base on Tentatif.\n<br>*Contact us for discussion on the price. :)<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20BusPersiaran44Seat\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW (Whatsapp) \n<br>*fast booking for mobile</a> <a data-app-btn=\"true\" href=\"https://form.jotform.me/82231969083462\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">BOOK NOW \n<br>(Online Booking Form)&nbsp;</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-29"
         },
         {
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ONLINE BOOKING FORM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP US TODAY</a>",
