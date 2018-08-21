@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
     "uniqCompNum": 82,
-    "versionPublish": "4.7.2",
+    "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -22,7 +22,8 @@
     "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -46,6 +47,9 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#cccccc"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px"
             }
           },
           "_params": {
@@ -81,7 +85,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION (AMT)</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+60148630141</a>",
           "_tags": [
             "Theme"
           ],
@@ -1063,6 +1067,9 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#cccccc"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px"
             }
           },
           "_params": {
@@ -1099,7 +1106,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION (AMT)</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+60148630141</a>",
           "_tags": [
             "Theme"
           ],
@@ -1247,6 +1254,9 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#cccccc"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px"
             }
           },
           "_params": {
@@ -1283,7 +1293,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION (AMT)</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+60148630141</a>",
           "_tags": [
             "Theme"
           ],
@@ -1370,6 +1380,9 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#cccccc"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px"
             }
           },
           "_params": {
@@ -1406,7 +1419,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION (AMT)</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+60148630141</a>",
           "_tags": [
             "Theme"
           ],
@@ -2288,6 +2301,9 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#cccccc"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px"
             }
           },
           "_params": {
@@ -2324,7 +2340,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION (AMT)</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+60148630141</a>",
           "_tags": [
             "Theme"
           ],

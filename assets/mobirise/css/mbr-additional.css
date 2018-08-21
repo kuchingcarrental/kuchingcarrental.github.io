@@ -10,6 +10,9 @@
 #menu-0 .mbr-navbar__hamburger {
   color: #cccccc;
 }
+#menu-0 .mbr-brand__name a {
+  font-size: 14px;
+}
 #header4-4 P {
   color: #2c2c2c;
   font-family: 'Oswald', sans-serif;
@@ -33,6 +36,9 @@
 }
 #menu-h .mbr-navbar__hamburger {
   color: #cccccc;
+}
+#menu-h .mbr-brand__name a {
+  font-size: 14px;
 }
 #slider-m H1 {
   color: #000000;
@@ -61,6 +67,9 @@
 #menu-j .mbr-navbar__hamburger {
   color: #cccccc;
 }
+#menu-j .mbr-brand__name a {
+  font-size: 14px;
+}
 #menu-n .mbr-brand__name {
   font-size: 16px;
 }
@@ -70,6 +79,9 @@
 #menu-n .mbr-navbar__hamburger {
   color: #cccccc;
 }
+#menu-n .mbr-brand__name a {
+  font-size: 14px;
+}
 #menu-1a .mbr-brand__name {
   font-size: 16px;
 }
@@ -78,6 +90,9 @@
 }
 #menu-1a .mbr-navbar__hamburger {
   color: #cccccc;
+}
+#menu-1a .mbr-brand__name a {
+  font-size: 14px;
 }
 #content5-1d .mbr-header .mbr-header__text {
   text-align: center;
