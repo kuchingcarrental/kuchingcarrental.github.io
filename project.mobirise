@@ -916,7 +916,7 @@
           "_anchor": "features1-1n"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BUS AND COASTER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ONLINE BOOKING FORM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP US TODAY</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page3.html#features1-29\" data-toolbar=\"-mbrBtnMove\">BUS AND COASTER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ONLINE BOOKING FORM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Kereta%20Sewa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHATSAPP US TODAY</a>",
           "_tags": [
             "Theme"
           ],
@@ -1456,7 +1456,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x3240.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-viva-576x32416.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1479,7 +1479,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/myvi2-480x4801.png",
+              "src": "@PROJECT_PATH@/assets/images/myvi2-480x48017.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1502,7 +1502,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x4002.jpg",
+              "src": "@PROJECT_PATH@/assets/images/perodua-bezza-white-front-left-malaysia-600x40018.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1525,7 +1525,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x6003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mpv-perodua-alza-auto-7-seat-1509386752-5b2e53ba0-600x60019.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1621,7 +1621,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/saga-480x4804.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saga-480x48020.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1644,7 +1644,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x3005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blogfarhanyusof-proton-exora-450x30021.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1667,7 +1667,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vios-600x2766.png",
+              "src": "@PROJECT_PATH@/assets/images/vios-600x27622.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1690,7 +1690,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x3987.png",
+              "src": "@PROJECT_PATH@/assets/images/2011-toyota-camry-xle-v6-6-speed-at-sedan-angular-front-600x39823.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1786,7 +1786,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/avanza11-600x2768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/avanza11-600x27624.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1809,7 +1809,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/innova-480x4809.jpg",
+              "src": "@PROJECT_PATH@/assets/images/innova-480x48025.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1832,7 +1832,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34810.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-600x34826.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1855,7 +1855,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29011.png",
+              "src": "@PROJECT_PATH@/assets/images/mitsubishi-l200-iv-restyling-2013-2015-pickup-interior-3-560x29027.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1951,7 +1951,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vellfire-600x30028.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1974,7 +1974,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40013.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2015-mitsubishi-lancer-evo-x-final-concept-600x40029.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1997,7 +1997,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alphard-600x30014.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alphard-600x30030.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2020,7 +2020,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45015.png",
+              "src": "@PROJECT_PATH@/assets/images/2015-honda-civic-si-sedan-si-with-navi-crystal-black-pearl-550x45031.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
