@@ -113,8 +113,8 @@
             "overlayColor": "#cccccc",
             "overlayOpacity": "0.6"
           },
-          "title": "TRAVELLING TO KUCHING, SARAWAK<br>It is so easy to book.",
-          "text": "WE ARE YOUR TRANSPORTATION PARTNER HERE IN SARAWAK<br>We Provide <a href=\"page3.html\">Cars</a>, <a href=\"page3.html#features1-29\">Van, and Buses </a>Rental in Kuching Sarawak.<br>We can also supply Drivers/Bodyguards for your Need.<br>We also provide (HOLIDAY TOUR PACKAGE) around Kuching area.<br><b>Free Car </b>Delivery to Kuching Airport, Terminal Bus and Hotel!",
+          "title": "Car Rental in<br>KUCHING, SARAWAK<br>It is so easy to book.",
+          "text": "WE ARE YOUR TRANSPORTATION PARTNER HERE IN SARAWAK<br>We Provide <a href=\"page3.html\">Cars</a>, <a href=\"page3.html#features1-29\">Van, and Buses </a>Rental in Kuching Sarawak.<br>We can also supply Drivers/Bodyguards for your Need.<br><i>(not for Tourism Purposes except for Bus/Van under license of Kiffah Travel&amp;Tours)</i><br><b>Free Car </b>Delivery to Kuching Airport, Terminal Bus and Hotel!",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>CAR RENTAL LIST</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>ONLINE BOOKING FORM</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=I%20want%20to%20Rent%20AMTCar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>WHATSAPP US</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"tel:+601131700037\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CALL US</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://keretasewakuching-amt.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>BAHASA MELAYU</a>    ",
           "_tags": [
             "Theme"
@@ -134,126 +134,6 @@
               "color": "#2c2c2c"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3C3C3C",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "INTERESTING PLACE IN KUCHING",
-          "text": "Dont miss your chance to visit these marvellous place in Kuching, Sarawak",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>BOOK WITH US NOW</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-25"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/bako-natoinal-park-610x407.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bako-natoinal-park-610x407-610x407.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Bako National Park",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hutan-simpan-semenggoh-610x452.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hutan-simpan-semenggoh-610x452-610x452.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Semenggoh Wild Forest",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/fairy-cave-bau-610x405.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fairy-cave-bau-610x405-610x405.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Fairy Cave &amp; Wind Cave",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405-610x405.jpg",
-                "alt": "",
-                "title": "",
-                "caption": " Damai Beach",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/jong-crocodile-farm-610x407.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jong-crocodile-farm-610x407-610x407.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Jong Crocodile Farm",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/rumah-panjang-ann-rais-610x419.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rumah-panjang-ann-rais-610x419-610x419.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Rumah Panjang Annah Rais Bidayuh",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407-610x407.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Sarawak Cultural Village",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343-610x343.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Border Serikin Market Place",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-24"
         },
         {
           "_params": {
