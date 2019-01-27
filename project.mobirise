@@ -113,7 +113,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "Car Rental in<br>KUCHING, SARAWAK<br>It is so easy to book.",
-          "text": "WE ARE YOUR TRANSPORTATION PARTNER HERE IN SARAWAK<br>We Provide <a href=\"page3.html\">Cars</a>, <a href=\"page3.html#features1-29\">Van, and Buses </a>Rental in Kuching Sarawak.<br>We can also supply Drivers/Bodyguards for your Need. (For Personal Use Only)<br><i>(Disclaimer: If for Tourism Purposes , Bus/Van under license of Kiffah Travel&amp;Tours)</i><br><b>Free Car </b>Delivery to your location!",
+          "text": "WE ARE YOUR TRANSPORTATION PARTNER HERE IN SARAWAK<br>We Provide <a href=\"page3.html\">Cars</a>, <a href=\"page3.html#features1-29\">Van, and Buses </a>Rental in Kuching Sarawak.<br>We can also supply Drivers/Bodyguards for your Need. (For Personal Use Only)<br><i>(Disclaimer: If for Tourism Purposes , Bus/Van under license of Kiffah Travel&amp;Tours)</i><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>CAR RENTAL LIST</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>ONLINE BOOKING FORM</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=I%20want%20to%20Rent%20AMTCar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>WHATSAPP US</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"tel:+601131700037\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CALL US</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://keretasewakuching-amt.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>BAHASA MELAYU</a>    ",
           "_tags": [
             "Theme"
@@ -159,7 +159,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "CHOOSE YOUR PREFERRED MACHINE TODAY",
+          "header": "CHOOSE YOUR PREFERRED MACHINE TODAY<br>Free Car Delivery to your location!",
           "subheader": "\"Your Tranportation Solution in Kuching, Sarawak, Malaysia",
           "media1": {
             "image": {
