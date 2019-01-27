@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "AMT MAIN SITE-English-Digi",
+    "name": "AMT MAIN SITE-English-Digi-Motac",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -16,7 +16,7 @@
     "uniqCompNum": 87,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-128x74-1.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
@@ -62,18 +62,17 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">ABOUT US</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>   ",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-221x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -85,7 +84,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+601131700037</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KERETA SEWA KUCHING SARAWAK<br>PHONE:+601131700037</a>",
           "_tags": [
             "Theme"
           ],
@@ -114,7 +113,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "Car Rental in<br>KUCHING, SARAWAK<br>It is so easy to book.",
-          "text": "WE ARE YOUR TRANSPORTATION PARTNER HERE IN SARAWAK<br>We Provide <a href=\"page3.html\">Cars</a>, <a href=\"page3.html#features1-29\">Van, and Buses </a>Rental in Kuching Sarawak.<br>We can also supply Drivers/Bodyguards for your Need.<br><i>(not for Tourism Purposes except for Bus/Van under license of Kiffah Travel&amp;Tours)</i><br><b>Free Car </b>Delivery to Kuching Airport, Terminal Bus and Hotel!",
+          "text": "WE ARE YOUR TRANSPORTATION PARTNER HERE IN SARAWAK<br>We Provide <a href=\"page3.html\">Cars</a>, <a href=\"page3.html#features1-29\">Van, and Buses </a>Rental in Kuching Sarawak.<br>We can also supply Drivers/Bodyguards for your Need.<br>(For Personal Use Only)<br><i>(Disclaimer: If for Tourism Purposes , Bus/Van under license of Kiffah Travel&amp;Tours)</i><br><b>Free Car </b>Delivery to your location!",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>CAR RENTAL LIST</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://form.jotform.me/82231969083462\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>ONLINE BOOKING FORM</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=I%20want%20to%20Rent%20AMTCar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>WHATSAPP US</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"tel:+601131700037\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CALL US</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://keretasewakuching-amt.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>BAHASA MELAYU</a>    ",
           "_tags": [
             "Theme"
@@ -860,42 +859,6 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/AMTsarawak/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" href=\"http://www.afdalmajutransportation.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/afdalmajutransportation\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-16"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "kuching airport",
-              "placeId": "ChIJc7jaz6Sg-zERRXDaUpeCQN0",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-e"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#efefef",
             "overlay": true,
             "overlayColor": "#3C3C3C",
@@ -917,9 +880,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Kuching International Airport, Kuching Sarawak.<br>",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: +<a href=\"tel:+601131700037\">6011 31700037</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=I%20want%20to%20Rent%20AMTCar\">601131700037</a></li><li>International Website: <a href=\"https://kuchingcarrental.github.io/\" target=\"_blank\">afdalmajutransportation.com</a></li></ul>",
+          "text1": "<strong>Locations</strong><br>Kuching International Airport, <br>Kuching Central<br>Kuching Sarawak.<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kiffahtrvlkch@yahoo.com.my<br>\nPhone: +<a href=\"tel:+601131700037\">6011 31700037</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :&nbsp;<a href=\"https://web.facebook.com/kiffahborneotours\" target=\"_blank\">kiffahborneotours</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=I%20want%20to%20Rent%20AMTCar\">601131700037</a></li><li>International Website: http://www.kiffah.com.my</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -962,18 +925,18 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">ABOUT US</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>   ",
           "logo": {
             "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-221x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -986,7 +949,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+601131700037</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KERETA SEWA KUCHING SARAWAK<br>PHONE:+601131700037</a>",
           "_tags": [
             "Theme"
           ],
@@ -1104,9 +1067,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Kuching International Airport, Kuching Sarawak.<br>",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: +<a href=\"tel:+601131700037\">6011 31700037</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=I%20want%20to%20Rent%20AMTCar\">601131700037</a></li><li>International Website: <a href=\"https://kuchingcarrental.github.io/\" target=\"_blank\">afdalmajutransportation.com</a></li></ul>",
+          "text1": "<strong>Locations</strong><br>Kuching International Airport, <br>Kuching Central<br>Kuching Sarawak.<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kiffahtrvlkch@yahoo.com.my<br>\nPhone: +<a href=\"tel:+601131700037\">6011 31700037</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :&nbsp;<a href=\"https://web.facebook.com/kiffahborneotours\" target=\"_blank\">kiffahborneotours</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=I%20want%20to%20Rent%20AMTCar\">601131700037</a></li><li>International Website: http://www.kiffah.com.my</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1149,18 +1112,18 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">ABOUT US</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>   ",
           "logo": {
             "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-221x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1173,7 +1136,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+601131700037</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KERETA SEWA KUCHING SARAWAK<br>PHONE:+601131700037</a>",
           "_tags": [
             "Theme"
           ],
@@ -1209,9 +1172,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Kuching International Airport, Kuching Sarawak.<br>",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: +<a href=\"tel:+601131700037\">6011 31700037</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=I%20want%20to%20Rent%20AMTCar\">601131700037</a></li><li>International Website: <a href=\"https://kuchingcarrental.github.io/\" target=\"_blank\">afdalmajutransportation.com</a></li></ul>",
+          "text1": "<strong>Locations</strong><br>Kuching International Airport, <br>Kuching Central<br>Kuching Sarawak.<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kiffahtrvlkch@yahoo.com.my<br>\nPhone: +<a href=\"tel:+601131700037\">6011 31700037</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :&nbsp;<a href=\"https://web.facebook.com/kiffahborneotours\" target=\"_blank\">kiffahborneotours</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=I%20want%20to%20Rent%20AMTCar\">601131700037</a></li><li>International Website: http://www.kiffah.com.my</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1290,18 +1253,18 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">ABOUT US</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>   ",
           "logo": {
             "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-221x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1314,7 +1277,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+601131700037</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KERETA SEWA KUCHING SARAWAK<br>PHONE:+601131700037</a>",
           "_tags": [
             "Theme"
           ],
@@ -2211,18 +2174,18 @@
             "color": "#ededed",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">ABOUT US</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">TERM AND CONDITION</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME MAIN PAGE</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>   ",
           "logo": {
             "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-221x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2235,7 +2198,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AFDAL MAJU TRANSPORTATION PHONE:+601131700037</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KERETA SEWA KUCHING SARAWAK<br>PHONE:+601131700037</a>",
           "_tags": [
             "Theme"
           ],
@@ -2318,9 +2281,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Kuching International Airport, Kuching Sarawak.<br>",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: afdalmaju@gmail.com<br>\nPhone: +<a href=\"tel:+601131700037\">6011 31700037</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :<a href=\"https://www.facebook.com/AMTsarawak\" target=\"_blank\">Kereta Sewa AMT</a></li><li>Instagram: <a href=\"https://www.instagram.com/afdalmajutransportation\" target=\"_blank\">afdalmajutransportation</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=I%20want%20to%20Rent%20AMTCar\">601131700037</a></li><li>International Website: <a href=\"https://kuchingcarrental.github.io/\" target=\"_blank\">afdalmajutransportation.com</a></li></ul>",
+          "text1": "<strong>Locations</strong><br>Kuching International Airport, <br>Kuching Central<br>Kuching Sarawak.<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kiffahtrvlkch@yahoo.com.my<br>\nPhone: +<a href=\"tel:+601131700037\">6011 31700037</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook Page :&nbsp;<a href=\"https://web.facebook.com/kiffahborneotours\" target=\"_blank\">kiffahborneotours</a></li><li>Whatsapp : <a href=\"https://api.whatsapp.com/send?phone=601131700037&amp;text=I%20want%20to%20Rent%20AMTCar\">601131700037</a></li><li>International Website: http://www.kiffah.com.my</li></ul>",
           "_tags": [
             "Theme"
           ],
