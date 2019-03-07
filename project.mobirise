@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AMT MAIN SITE-English-Digi-Motac",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 87,
+    "uniqCompNum": 88,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-128x74-1.png",
@@ -32,7 +32,7 @@
         "title": "Kuching Car Rental",
         "meta_descr": "We provide car, van and buses rental in Kuching Sarawak. Book with us today fast and easy. Make sure you plan your visit well and let us handle your transport. Thank you and welcome.",
         "header_custom": "",
-        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+60148630141\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
+        "footer_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+601131700037\", // WhatsApp number\n            call_to_action: \"Whatsapp us here\", // Call to action\n            position: \"left\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget -->\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5b04a9f5d0f6723da57ec812/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": ""
       },
       "components": [
@@ -133,6 +133,89 @@
               "color": "#2c2c2c"
             }
           }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/bako-natoinal-park-610x407.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bako-natoinal-park-610x407-610x407.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Bako National Park",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hutan-simpan-semenggoh-610x452.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hutan-simpan-semenggoh-610x452-610x452.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Semenggoh Wild Forest",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fairy-cave-bau-610x405.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fairy-cave-bau-610x405-610x405.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Fairy Cave &amp; Wind Cave",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pantai-damai-sarawak-610x405-610x405.jpg",
+                "alt": "",
+                "title": "",
+                "caption": " Damai Beach",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jong-crocodile-farm-610x407.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jong-crocodile-farm-610x407-610x407.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Jong Crocodile Farm",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rumah-panjang-ann-rais-610x419.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rumah-panjang-ann-rais-610x419-610x419.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Rumah Panjang Annah Rais Bidayuh",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarawak-cultural-village-610x407-610x407.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Sarawak Cultural Village",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pasar-serikin-610x343-610x343.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Border Serikin Market Place",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2f"
         },
         {
           "_params": {
