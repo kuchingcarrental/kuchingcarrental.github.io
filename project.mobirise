@@ -67,7 +67,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-221x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sarawak-bendera-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1012,7 +1012,7 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>   ",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-221x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sarawak-bendera-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1199,7 +1199,7 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>   ",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-221x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sarawak-bendera-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1340,7 +1340,7 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>   ",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-221x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sarawak-bendera-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2240,7 +2240,7 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn-parent\"></span>CARLIST</a></li>   ",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/toyota-hiace-key-1-221x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sarawak-bendera-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
